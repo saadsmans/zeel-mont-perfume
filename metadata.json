@@ -1,0 +1,6 @@
+{
+  "name": "ZELL MONT Haute Parfumerie",
+  "description": "Haute Parfumerie Paris & New Delhi. Pure perfumes, artisanal extraits, and traditional Kannauj deg-bhapka attars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
